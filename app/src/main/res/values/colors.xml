@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#00574B</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#008577</color>
+
+    <!-- Background color for app -->
+    <color name="background">#F3E5F5</color>
+
+    <!-- Background color for the rock category -->
+    <color name="rock_music">#FD8E09</color>
+
+    <!-- Background color for the hiphop category -->
+    <color name="hiphop_music">#8800A0</color>
+
+    <!-- Background color for the blues category -->
+    <color name="blues_music">#16AFCA</color>
+
+    <!-- Background color for buttons -->
+    <color name="play_button">#87CEEB</color>
+    <color name="pause_button">#87CEEB</color>
+    <color name="stop_button">#87CEEB</color>
+
+    <!-- Text color for buttons -->
+    <color name="button_text">#000000</color>
+</resources>
+
